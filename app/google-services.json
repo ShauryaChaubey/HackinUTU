@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635584208076",
+    "firebase_url": "https://registration-page-bad6f.firebaseio.com",
+    "project_id": "registration-page-bad6f",
+    "storage_bucket": "registration-page-bad6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635584208076:android:6988dc5d4f47302acd3669",
+        "android_client_info": {
+          "package_name": "com.example.registrationpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635584208076-rougpb8r52gqtm7u7sbfcfhlq60jbcm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registrationpage",
+            "certificate_hash": "e9d3a53f504d69668e5c3782e59108ca9781f497"
+          }
+        },
+        {
+          "client_id": "635584208076-t7d5m2t47l9eijnbnucnjvseqmdb5a22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJo2_S80vGhRY5LRgzqywKz_fnUSsbqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635584208076-t7d5m2t47l9eijnbnucnjvseqmdb5a22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
