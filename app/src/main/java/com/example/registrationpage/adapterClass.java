@@ -35,7 +35,7 @@ public class adapterClass extends FirebaseRecyclerAdapter<RegisteredComplaint.mo
     @NonNull
     @Override
     public viewholder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.singleview,parent,false);
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.singlevieww,parent,false);
         return new viewholder(view);
     }
 
